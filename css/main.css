@@ -1,1 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Sansita:400,900');
+
+body {
+  background-color:black;
+  color:white;
+}
+#hero{
+  text-align:center;
+  margin-top:80px;
+}
