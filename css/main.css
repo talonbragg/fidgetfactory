@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Sansita:400,900');
 
 body {
-  background-color:black;
+  background:url('http://www.imgbase.info/images/safe-wallpapers/photography/cityscape/51371_cityscape_city_at_night.jpg') center center no-repeat fixed;
   color:white;
   font-family:'Sansita';
+  margin-top:0;
+  margin-left:0;
+  margin-right:0;
+  margin-bottom:30px;
 }
 #hero{
   text-align:center;
   margin-top:180px;
+  background-color:black;
+  margin-bottom:180px;
 }
 h1 {
   font-size:60px;
