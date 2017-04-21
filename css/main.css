@@ -81,4 +81,12 @@ a:hover {
   position:fixed;
   top:50%;
   left:0;
+  list-style-type:none;
 }
+
+.social a{
+  text-decoration:none;
+}
+
+
+
