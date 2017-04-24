@@ -90,7 +90,7 @@ i {
 .insta {
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  color:#f5f5f5
+  color:#f5f5f5;
 }
 .insta:hover {
   color: #f09433; 
@@ -98,5 +98,15 @@ i {
   transition-duration:.5s;
 }
 
+.gp {
+  color:#f5f5f5;
+  -webkit-transition-duration:.5s;
+  transition-duration:.5s;
+}
 
+.gp:hover {
+  color:#db3236;
+  -webkit-transition-duration:.5s;
+  transition-duration:.5s;
+}
 
