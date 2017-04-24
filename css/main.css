@@ -96,7 +96,7 @@ i {
   color: #f09433; 
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  transform: scale(1.1);
+  transform: scale(1.5);
 }
 
 .gp {
@@ -109,6 +109,6 @@ i {
   color:#db3236;
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  transform: scale(1.1);
+  transform: scale(1.5);
 }
 
