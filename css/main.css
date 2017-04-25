@@ -96,7 +96,7 @@ i {
   color: #f09433; 
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  transform: scale(2);
+  transform: scale(1.5);
 }
 
 .gp {
@@ -109,7 +109,7 @@ i {
   color:#db3236;
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  transform: scale(2);
+  transform: scale(1.5);
 }
 .twit {
   color:#f5f5f5;
@@ -120,7 +120,7 @@ i {
   color:#0084b4;
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  transform: scale(2);
+  transform: scale(1.5);
 }
 .drib {
   color:#f5f5f5;
@@ -131,7 +131,7 @@ i {
   color:#C73B6F;
   -webkit-transition-duration:.5s;
   transition-duration:.5s;
-  transform: scale(2);
+  transform: scale(1.5);
 }
 .fa {
   padding-bottom:10px;
